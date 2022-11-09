@@ -25,7 +25,7 @@ const strOperation = '*+-*+-*+-*+';
 while (count < 3) {
   const num1 = generateRandomNumber();
   const num2 = generateRandomNumber();
-  const actionOper = strOperation[generateRandomNumber()]
+  const actionOper = strOperation[generateRandomNumber()];
   const expression = `${num1} ${actionOper} ${num2}`;
   const answerUser = roundStep(expression);
   if (isCorrect(num1, actionOper, num2) === Number(answerUser)) {
