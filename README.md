@@ -4,3 +4,4 @@
 <a href="https://codeclimate.com/github/Plaztmatic/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/a1ba90a7a3f221fd4a20/maintainability" /></a>
 <a href="https://asciinema.org/a/dlumPX31PU8WqcYexJ9a8r7Wn">Video on Brain-Even Game</a>
 <a href="https://asciinema.org/a/V8GmRKeXdUeXnKv5a27MJxCWf">Video on Brain-Calc Game</a>
+<a href="https://asciinema.org/a/kVRUMruc0D7hExCQEtNGnSmsI">Video on Brain-gcd Game</a>
