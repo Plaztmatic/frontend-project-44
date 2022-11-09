@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/* eslint-disable no-param-reassign */
 import roundStep, { roundGame, generateRandomNumber } from '../src/round.js';
 
 let findNum;
