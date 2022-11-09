@@ -12,7 +12,7 @@ const isCorrect = (num1) => {
   return result > 0 ? 'no' : 'yes';
 };
 const name = roundGame();
-console.log('Answer "yes" if the number is even, otherwise answer "no".');
+console.log('Answer "yes" if given number is prime. Otherwise answer "no".');
 let count = 0;
 while (count < 3) {
   const number = generateRandomNumber() + 2;
