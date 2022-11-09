@@ -32,7 +32,7 @@ while (count < 3) {
     console.log('Correct!');
     count += 1;
   } else {
-    console.log(`'${answerUser}' is wrong answer ;(. Correct answer was '${findNum}'.\nLet's try again, ${name}`);
+    console.log(`'${answerUser}' is wrong answer ;(. Correct answer was '${findNum}'.\nLet's try again, ${name}!`);
     break;
   }
 }
