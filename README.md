@@ -5,3 +5,4 @@
 <a href="https://asciinema.org/a/dlumPX31PU8WqcYexJ9a8r7Wn">Video on Brain-Even Game</a>
 <a href="https://asciinema.org/a/V8GmRKeXdUeXnKv5a27MJxCWf">Video on Brain-Calc Game</a>
 <a href="https://asciinema.org/a/kVRUMruc0D7hExCQEtNGnSmsI">Video on Brain-gcd Game</a>
+<a href="https://asciinema.org/a/pZMRSW14SQTBk3BfBm0VDcPoh">Video on Brain-Progression</a>

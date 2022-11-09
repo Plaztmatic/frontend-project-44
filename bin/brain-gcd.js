@@ -15,7 +15,7 @@ const isCorrect = (num1, num2) => {
   return result;
 };
 const name = roundGame();
-console.log('What is the result of the expression?');
+console.log('Find the greatest common divisor of given numbers.');
 let count = 0;
 while (count < 3) {
   const num1 = generateRandomNumber();
