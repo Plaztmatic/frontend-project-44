@@ -18,8 +18,8 @@ const name = roundGame();
 console.log('Find the greatest common divisor of given numbers.');
 let count = 0;
 while (count < 3) {
-  const num1 = generateRandomNumber();
-  const num2 = generateRandomNumber();
+  const num1 = generateRandomNumber() + 1;
+  const num2 = generateRandomNumber() + 1;
   const expression = `${num1} ${num2}`;
   const answerUser = roundStep(expression);
   if (isCorrect(num1, num2) === Number(answerUser)) {
