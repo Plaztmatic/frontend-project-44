@@ -2,8 +2,8 @@
 
 [![Actions Status](https://github.com/Plaztmatic/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/Plaztmatic/frontend-project-44/actions)
 <a href="https://codeclimate.com/github/Plaztmatic/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/a1ba90a7a3f221fd4a20/maintainability" /></a>
-Install:
-Just download project from https://github.com/Plaztmatic/frontend-project-44 and run one of this command in your terminal:
+Install:<br>
+Just download project from https://github.com/Plaztmatic/frontend-project-44 and run one of this command in your terminal:<br>
 
 brain-calc
 // find result of the exression
@@ -20,7 +20,7 @@ brain-prime
 brain-progression
 //Find missing number in progression
 
-Video tutorial how to play:
+Video tutorial how to play:<br>
 <a href="https://asciinema.org/a/dlumPX31PU8WqcYexJ9a8r7Wn">Video on Brain-Even Game</a><br>
 <a href="https://asciinema.org/a/V8GmRKeXdUeXnKv5a27MJxCWf">Video on Brain-Calc Game</a><br>
 <a href="https://asciinema.org/a/kVRUMruc0D7hExCQEtNGnSmsI">Video on Brain-gcd Game</a><br>
