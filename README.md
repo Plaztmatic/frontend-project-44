@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/Plaztmatic/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/Plaztmatic/frontend-project-44/actions)
-<a href="https://codeclimate.com/github/Plaztmatic/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/a1ba90a7a3f221fd4a20/maintainability" /></a>
+<a href="https://codeclimate.com/github/Plaztmatic/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/a1ba90a7a3f221fd4a20/maintainability" /></a><br>
 Install:<br>
 Just download project from https://github.com/Plaztmatic/frontend-project-44 and run one of this command in your terminal:<br>
 
