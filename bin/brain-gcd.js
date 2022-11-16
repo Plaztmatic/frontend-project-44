@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-import roundStep, { roundGame, generateRandomNumber } from '../src/round.js';
+import logicBrainGcd from '../src/games/brain-gcd.js';
 
+<<<<<<< HEAD
 const isCorrect = (num1, num2) => {
   const average = (num1 + num2) / 2;
   let result;
@@ -33,3 +34,6 @@ while (count < 3) {
 if (count === 3) {
   console.log(`Congratulations, ${name}!`);
 }
+=======
+logicBrainGcd();
+>>>>>>> 391c677 (fix structure)
