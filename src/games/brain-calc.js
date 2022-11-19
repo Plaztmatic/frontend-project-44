@@ -5,7 +5,7 @@ import generateRandomNumber from '../utils.js';
 const strOperation = '*+-*+-*+-*+';
 const description = 'What is the result of the expression?';
 
-const isCorrect = (num1, actionOper, num2) => {
+const calculate = (num1, actionOper, num2) => {
   let result;
   switch (actionOper) {
     case '*':
@@ -28,7 +28,7 @@ const getQuestionAndAnswer = () => {
   const num2 = generateRandomNumber(0);
   const actionOper = strOperation[generateRandomNumber(0)];
   const question = `${num1} ${actionOper} ${num2}`;
-  const answer = String(isCorrect(num1, actionOper, num2));
+  const answer = String(calculate(num1, actionOper, num2));
   return [question, answer];
 };
 
