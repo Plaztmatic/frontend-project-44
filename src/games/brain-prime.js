@@ -12,7 +12,7 @@ const isPrime = (num1) => {
       result += 1;
     }
   }
-  return result > 0
+  return result > 0;
 };
 
 const getQuestionAndAnswer = () => {
