@@ -24,9 +24,9 @@ const calculate = (num1, actionOper, num2) => {
 };
 
 const getQuestionAndAnswer = () => {
-  const num1 = generateRandomNumber(0);
-  const num2 = generateRandomNumber(0);
-  const actionOper = strOperation[generateRandomNumber(0)];
+  const num1 = generateRandomNumber(1, 10);
+  const num2 = generateRandomNumber(1, 10);
+  const actionOper = strOperation[generateRandomNumber(1, 10)];
   const question = `${num1} ${actionOper} ${num2}`;
   const answer = String(calculate(num1, actionOper, num2));
   return [question, answer];

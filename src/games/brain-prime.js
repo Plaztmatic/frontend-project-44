@@ -12,12 +12,14 @@ const isPrime = (num1) => {
       result += 1;
     }
   }
-  return result > 0 ? 'no' : 'yes';
+  return result > 0 ?
 };
 
 const getQuestionAndAnswer = () => {
-  const number = generateRandomNumber(2);
-  return [number, isPrime(number)];
+  const number = generateRandomNumber(2, 12);
+  const question = number;
+  const answer = isPrime(number) ? 'yes' : 'no';
+  return [question, answer];
 };
 
 const logicBrainPrime = () => {
